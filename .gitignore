@@ -1,0 +1,10 @@
+# python virtual environment
+backend/CodeClashEnv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
