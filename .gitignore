@@ -1,4 +1,4 @@
-# python virtual environment
+# Python virtual environment
 backend/CodeClashEnv/
 
 # Python cache
@@ -8,5 +8,8 @@ __pycache__/
 # Environment variables
 .env
 
-# Node dependencies
+# Node.js dependencies
 frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
